@@ -841,6 +841,7 @@ requires-dist = [
     { name = "fsspec", marker = "python_full_version >= '3.8'", specifier = "==2024.12.0" },
     { name = "gradio", marker = "python_full_version >= '3.10'", specifier = "==5.12.0" },
     { name = "gradio-client", marker = "python_full_version >= '3.10'", specifier = "==1.5.4" },
+    { name = "groq", specifier = ">=0.15.0" },
     { name = "groq", marker = "python_full_version >= '3.8'", specifier = "==0.15.0" },
     { name = "gtts", marker = "python_full_version >= '3.7'", specifier = "==2.5.4" },
     { name = "h11", marker = "python_full_version >= '3.7'", specifier = "==0.14.0" },
